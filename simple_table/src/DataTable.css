@@ -1,0 +1,15 @@
+.body{
+    margin:30px;
+}
+
+#dropdown-basic-button{
+    position: absolute;
+    top: 0px;
+    left: 10px;
+}
+
+.sortBtn{
+    position: absolute;
+    top: 127px;
+    right: 65px;
+}

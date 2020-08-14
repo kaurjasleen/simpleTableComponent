@@ -1,0 +1,104 @@
+{
+  "students": [
+    {
+      "id": 11,
+      "name": "John Doe",
+      "gender": "Male",
+      "letterGrade": "B",
+      "gradePercentage": 83.4,
+      "star":5
+    },
+    {
+      "id": 12,
+      "name": "Mary Lam",
+      "gender": "Female",
+      "letterGrade": "C",
+      "gradePercentage": 74.22,
+      "star":2
+    },{
+      "id": 3,
+      "name": "John",
+      "gender": "Doe",
+      "letterGrade": "A",
+      "gradePercentage": "Male",
+      "star":5
+    },{
+      "id": 14,
+      "name": "Amit Arora",
+      "gender": "Male",
+      "letterGrade": "F",
+      "gradePercentage": "Male",
+      "star":1
+    },{
+      "id": 15,
+      "name": "Sally Crew",
+      "gender": "Female",
+      "letterGrade": "A",
+      "gradePercentage": "",
+      "star":4
+    },{
+      "id": 16,
+      "name": "Jake Dude",
+      "gender": "Male",
+      "letterGrade": "B",
+      "gradePercentage": "Male",
+      "star":5
+    },{
+      "id": 17,
+      "name": "Blake Johnson",
+      "gender": "Smith",
+      "letterGrade": "A",
+      "gradePercentage": "Male",
+      "star":3
+    },{
+      "id": 18,
+      "name": "Jasleen Kaur",
+      "gender": "Female",
+      "letterGrade": "D",
+      "gradePercentage": "Female",
+      "star":4
+    },{
+      "id": 19,
+      "name": "Smitha Jahnvi",
+      "gender": "Female",
+      "letterGrade": "C",
+      "gradePercentage": 74.22,
+      "star":1
+    },{
+      "id": 110,
+      "name": "Richa Arora",
+      "gender": "Female",
+      "letterGrade": "C",
+      "gradePercentage": 74.22,
+      "star":2
+    },{
+      "id": 111,
+      "name": "Ally Pat",
+      "gender": "Female",
+      "letterGrade": "C",
+      "gradePercentage": 74.22,
+      "star":2
+    },{
+      "id": 112,
+      "name": "Kruti Chopra",
+      "gender": "Female",
+      "letterGrade": "D",
+      "gradePercentage": 74.22,
+      "star":3
+    },{
+      "id": 113,
+      "name": "Sangeeta Patel",
+      "gender": "Female",
+      "letterGrade": "C",
+      "gradePercentage": 74.22,
+      "star":1
+    },{
+      "id": 114,
+      "name": "Sam Lam",
+      "gender": "Female",
+      "letterGrade": "C",
+      "gradePercentage": 74.22,
+      "star":1
+    }
+  ]
+}
